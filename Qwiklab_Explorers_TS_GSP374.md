@@ -7,13 +7,13 @@
 ```
 export EVENT=
 export TABLE=
+export MODEL=
 export VALUE_X1=
 export VALUE_Y1=
 export VALUE_X2=
 export VALUE_Y2=
 export FUNC_1=
 export FUNC_2=
-export MODEL=
 ```
 ```
 #!/bin/bash
